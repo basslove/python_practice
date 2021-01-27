@@ -1,3 +1,14 @@
+# directories
 .idea/
+/docker/db/mysql/*
+
+# files
 __pycache__
 *.pyc
+*.elc
+*.swp
+*.orig
+*~
+.DS_Store
+
+
